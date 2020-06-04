@@ -7,12 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Pizzería los inmigrantes</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        phpinfo();
-        ?>
+        
+        <header><img src="images/pizza5400x2342.jpg" width=100%>
+       </header>
+        
+
     </body>
 </html>
